@@ -40,6 +40,8 @@ pip install pandas folium
 ```bash
 python visualize.py
 ```
+![image](https://github.com/user-attachments/assets/a744a33b-0051-48e0-9f2e-0835091263ba)
+
 
 2. 生成热力图：
 ```bash
