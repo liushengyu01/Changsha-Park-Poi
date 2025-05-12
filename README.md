@@ -47,11 +47,15 @@ python visualize.py
 ```bash
 python visualize_heatmap.py
 ```
+![image](https://github.com/user-attachments/assets/dc0f3381-c95c-4dff-a947-b09e9e6c411e)
+
 
 3. 查看交通流量：
 ```bash
 python visualize_traffic.py
 ```
+![image](https://github.com/user-attachments/assets/53aba823-536a-4d47-980a-b5076ae30e40)
+
 
 生成的HTML文件可以直接在浏览器中打开查看交互式地图。
 
